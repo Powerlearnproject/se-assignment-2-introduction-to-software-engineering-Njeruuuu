@@ -9,7 +9,7 @@ Questions:
 Define Software Engineering:
 Software Engineering is the application of engineering principles to the development of software. It involves the software development processes planning analysis designing coding testing and maintenance
 What is software engineering, and how does it differ from traditional programming?
-Software Engineering is the application of engineering principles to the development of software. It involves the software development processes planning analysis designing coding testing and maintenance.traditional programming primarily focuses on writing the code and not much of the entire system.
+Software Engineering is the application of engineering principles to the development of software. It involves the software development processes planning analysis designing coding testing and maintenance.traditional programming primarily focuses on writing the code and not much of the entire system
 Software Development Life Cycle (SDLC):
 
 Explain the various phases of the Software Development Life Cycle. Provide a brief description of each phase.
@@ -36,7 +36,7 @@ Software Design Principles:
 Explain the concept of modularity in software design. How does it improve maintainability and scalability of software systems?
 Modularity refers to the principle of breaking down  a software system into distinct components each responsible for a piece of the functionality
 Modularity improves maintenance of the system this is because each module handles a specific aspect of the system’s functionality hence making it easy to debug and update each module specifically
-Modularity also makes it easy to test and debug a software this is because it just involves testing each module independently rather than testing the software as a whole hence making it easy for the developers to identify the faults within a specific area
+Modularity also makes it easy to test and debug a software this is because it just involves testing each module independently rather than testing the software as a whole hence making it easy for the developers to identify the faults within a specific area.
 Testing in Software Engineering:
 
 Describe the different levels of software testing (unit testing, integration testing, system testing, acceptance testing). Why is testing crucial in software development?6. Unit testing - this involves testing individual components of the system whereby the developers get to write the code to ensure that each part of the code perfoms as expected
